@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/project-management/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/project-management/actions/workflows/publish.yml)
+
 project-management
 # Project Management
 
